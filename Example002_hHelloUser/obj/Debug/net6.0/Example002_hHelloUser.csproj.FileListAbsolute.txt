@@ -1,0 +1,15 @@
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\bin\Debug\net6.0\Example002_hHelloUser.exe
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\bin\Debug\net6.0\Example002_hHelloUser.deps.json
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\bin\Debug\net6.0\Example002_hHelloUser.runtimeconfig.json
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\bin\Debug\net6.0\Example002_hHelloUser.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\bin\Debug\net6.0\Example002_hHelloUser.pdb
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\Example002_hHelloUser.csproj.AssemblyReference.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\Example002_hHelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\Example002_hHelloUser.AssemblyInfoInputs.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\Example002_hHelloUser.AssemblyInfo.cs
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\Example002_hHelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\Example002_hHelloUser.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\refint\Example002_hHelloUser.dll
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\Example002_hHelloUser.pdb
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\Example002_hHelloUser.genruntimeconfig.cache
+C:\Users\Алексей\OneDrive\Рабочий стол\Examples\Example001_Helloconsole\Example002_hHelloUser\obj\Debug\net6.0\ref\Example002_hHelloUser.dll
